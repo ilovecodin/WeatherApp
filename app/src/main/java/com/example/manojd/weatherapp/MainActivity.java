@@ -87,6 +87,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         Log.v("longitude",""+longitude);
 
         getForecast(latitude,longitude);
+        // lat long
     }
 
     @Override
