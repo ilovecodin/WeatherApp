@@ -219,7 +219,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
                     .setMessage("Network is not available,Please try later!!")
                     .setPositiveButton("OK",null);
             builder.create().show();
-            //Toast.makeText(this,"Network is not available,Please try later!!",Toast.LENGTH_SHORT).show();
+            Toast.makeText(this,"Network is not available,Please try later!!",Toast.LENGTH_SHORT).show();
         }
         return isAvailable;
     }
