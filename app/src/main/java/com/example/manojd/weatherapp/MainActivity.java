@@ -85,6 +85,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         Log.v("latitude",""+latitude);
         longitude = location.getLongitude();
         Log.v("longitude",""+longitude);
+        Toast.makeText(this, "Latitude & longitude", Toast.LENGTH_SHORT).show();
 
         getForecast(latitude,longitude);
         // lat long
