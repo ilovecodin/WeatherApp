@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मौसम एप्लिकेशन</string>
+    <string name="location_value">पुणे</string>
+    <string name="time_value">%1$s बजे</string>
+    <string name="humidity_value">नमी</string>
+    <string name="precip_value">वर्षा/हिमपात</string>
+    <string name="dark_sky_message"><a href="https://darksy.net/poweredby"> Dark Sky द्वारा संचालित</a></string>
+    <string name="String_Summryvalue">तूफानी</string>
+
+</resources>

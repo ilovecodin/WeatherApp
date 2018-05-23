@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location_value">Pune</string>
+    <string name="time_value">At %1$s it is</string>
+    <string name="humidity_value">HUMIDITY</string>
+    <string name="precip_value">RAIN/SNOW?</string>
+    <string name="summary_value">Stormy</string>
+    <string name="summary_value1">%2$s</string>
+    <string name="dark_sky_message"><a href="https://darksy.net/poweredby">Powered by Dark Sky</a></string>
+</resources>

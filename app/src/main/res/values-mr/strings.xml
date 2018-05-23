@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हवामान अॅप</string>
+    <string name="location_value">पुणे</string>
+    <string name="time_value">%1$s वाजता</string>
+    <string name="humidity_value">आर्द्रता</string>
+    <string name="precip_value">पाऊस/हिमवर्षाव</string>
+    <string name="summary_value1">%2$s</string>
+    <string name="dark_sky_message"><a href="https://darksy.net/poweredby"> Dark Sky द्वारा समर्थित</a></string>
+    <string name="String_Summryvalue">वादळी</string>
+</resources>
